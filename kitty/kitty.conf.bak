@@ -1,0 +1,18 @@
+shell /sbin/bash 
+kitty_mod alt
+
+
+# BEGIN_KITTY_THEME
+# Dark Pride
+include current-theme.conf
+# END_KITTY_THEME
+#
+font_size 12
+#
+background_opacity 0.80
+#
+#
+enable_layouts tall,*
+
+window_margin_width 7
+
