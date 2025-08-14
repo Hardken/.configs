@@ -25,7 +25,6 @@ nwg-look/
 pavucontrol.ini
 polybar/
 pulse/
-scripts/
 session/
 spotify/
 systemd/
@@ -34,3 +33,5 @@ user-dirs.dirs
 user-dirs.locale
 xarchiver/
 xsettingsd/
+Thunar/
+xfce4/
